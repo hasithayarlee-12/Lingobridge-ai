@@ -1,5 +1,5 @@
 # 🌐 LingoBridge AI — Multilingual AI Tutor
-
+🚀 **[Live Demo](https://lingobridge-iqm2pqeqk-infer-x.vercel.app/)**
 > A hackathon MVP that helps Indian college students understand technical
 > content in their preferred language: **English, Hindi, Telugu, Tamil, Marathi, or Bengali**.
 
